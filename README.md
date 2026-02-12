@@ -28,16 +28,6 @@ Fique à vontade para explorar os repositórios — sempre tem algo novo sendo d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </p>
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark"/>
-</p>
-
----
 
 ## 🚀 Objetivo
 
