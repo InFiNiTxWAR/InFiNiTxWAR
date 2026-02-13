@@ -14,7 +14,7 @@ Fique à vontade para explorar os repositórios — sempre tem algo novo sendo d
 ## 🎓 Formação
 
 - 📚 Cursando **2º ano de Desenvolvimento de Sistemas**
-- 🇬🇧 **5 anos de Inglês** – Nível First (B2)
+- 🇬🇧 **3 anos de Inglês** – Nível First (B2)
 
 
 
